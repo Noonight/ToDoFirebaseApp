@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1063749973602",
+    "firebase_url": "https://plants-bsu.firebaseio.com",
+    "project_id": "plants-bsu",
+    "storage_bucket": "plants-bsu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063749973602:android:8b832e7126eef90a",
+        "android_client_info": {
+          "package_name": "com.arkhipov.ayur.todofirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063749973602-qts1sdsb8s7l672qflad3f4uo613o815.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDapUtPNQapgIHVD3dxtLb5Jwfk1euwaU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
